@@ -17,6 +17,7 @@
         <SectionVersatility class="bg-transparent" />
         <SectionGourmet class="bg-transparent" />
         <SectionPackages class="bg-transparent" />
+        <VenueSpaces class="bg-transparent" />
         
         <SectionNocturnal />
         <SectionOffer /> 
@@ -73,6 +74,8 @@
 </template>
 
 <script setup>
+import VenueSoaces from '~/components/VenueSpaces.vue';
+
 </script>
 
 <style>
