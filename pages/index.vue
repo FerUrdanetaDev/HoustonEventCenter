@@ -48,8 +48,8 @@
               </p>
               <div class="h-px w-8 bg-gold/20 mx-auto md:mx-0"></div>
               <p class="text-white text-[12px] uppercase tracking-[0.2em] italic font-light">
-                📍 The Woodlands Area <br>
-                <span class="text-[9px] text-gray-500 normal-case">(2.5 miles from Woodlands Mall)</span>
+                 The Woodlands Area <br>
+                <span class="text-[12px] text-white normal-case">(📍2.5 miles from Woodlands Mall)</span>
               </p>
             </div>
           </div>
